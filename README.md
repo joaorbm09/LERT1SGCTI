@@ -1,1 +1,1 @@
-# Sistema de Gestão de Chamadas de Ti
+# Sistema de Gestão de Chamadas de TI
